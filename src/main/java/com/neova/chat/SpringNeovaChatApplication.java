@@ -1,4 +1,4 @@
-package com.neova.chat.springNeovaChat;
+package com.neova.chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
